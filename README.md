@@ -29,6 +29,7 @@ Explore every feature in the dataset and uncover where potential opportunities t
 14. ## Methodology
 - Data Preprocessing
 - Feature engineering: e.g. Addition of revenue column, etc.
-- Exploratory Data Analysis was carried out using python programming language. Forecast was also done to predict what the company's revenue will be in the next 8 years.
+- Exploratory Data Analysis was carried out using python programming language.
+- Forecast was also done to predict what the company's revenue will be in the next 8 years using ARIMA, Linear regression, Random forest and Support Vector Models.
 - Insights gotten from the analysed data were provided and,
 - Recommendations were made to boost the company's revenue.
